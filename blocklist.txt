@@ -1,3 +1,5 @@
-#Weird domains
+# Weird domains
 0.0.0.0 rxforuy
 0.0.0.0 tpjjkxxemn
+0.0.0.0 time.izatcloud.net
+0.0.0.0 izatcloud.net
