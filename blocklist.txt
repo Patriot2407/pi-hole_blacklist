@@ -9,3 +9,21 @@
 0.0.0.0 avs-alexa-na.amazon.com
 0.0.0.0 narvar.com
 0.0.0.0 assets.narvar.com
+
+#VPNs
+0.0.0.0 privateinternetaccess.com
+0.0.0.0 nordvpn.com
+0.0.0.0 cyberghostvpn.com
+0.0.0.0 ipvanish.com
+0.0.0.0 tunnelbear.com
+0.0.0.0 expressvpn.com
+0.0.0.0 goldenfrog.com
+0.0.0.0 torguard.net
+0.0.0.0 hidemyass.com
+0.0.0.0 vpnunlimitedapp.com
+0.0.0.0 keepsolid.com
+0.0.0.0 speedify.com
+0.0.0.0 purevpn.com
+0.0.0.0 strongvpn.com
+0.0.0.0 vikingvpn.com
+0.0.0.0 cryptostorm.is
