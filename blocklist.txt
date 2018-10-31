@@ -7,7 +7,6 @@
 
 # Undesirables
 0.0.0.0 avs-alexa-na.amazon.com
-0.0.0.0 narvar.com
 0.0.0.0 assets.narvar.com
 
 #VPNs
