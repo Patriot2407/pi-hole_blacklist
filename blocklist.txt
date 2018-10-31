@@ -32,6 +32,9 @@
 0.0.0.0 testsfeed.com
 0.0.0.0 thepiratebay.org
 0.0.0.0 tinder.com
+0.0.0.0 telemetry.malwarebytes.com
+0.0.0.0 go.oclasrv.com
+0.0.0.0 oclasrv.com
 
 #VPNs
 0.0.0.0 privateinternetaccess.com
