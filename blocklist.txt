@@ -3,3 +3,9 @@
 0.0.0.0 tpjjkxxemn
 0.0.0.0 time.izatcloud.net
 0.0.0.0 izatcloud.net
+0.0.0.0 ibclick.stream
+
+# Undesirables
+0.0.0.0 avs-alexa-na.amazon.com
+0.0.0.0 narvar.com
+0.0.0.0 assets.narvar.com
