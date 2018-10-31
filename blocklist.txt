@@ -1,6 +1,7 @@
 # Weird domains
 0.0.0.0 rxforuy
 0.0.0.0 tpjjkxxemn
+0.0.0.0 iihrntdkfgvj
 0.0.0.0 time.izatcloud.net
 0.0.0.0 izatcloud.net
 0.0.0.0 ibclick.stream
@@ -8,6 +9,29 @@
 # Undesirables
 0.0.0.0 avs-alexa-na.amazon.com
 0.0.0.0 assets.narvar.com
+0.0.0.0 ad.pandora.tv
+0.0.0.0 ads.pandora.tv.net
+0.0.0.0 adserver.pandora.com
+0.0.0.0 adservice.google.com
+0.0.0.0 analytics.plex.tv
+0.0.0.0 google-public-dns-a.google.com
+0.0.0.0 google-public-dns-b.google.com
+0.0.0.0 id.google.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 shepherd.sb.avast.com
+0.0.0.0 vanheim.ff.avast.com
+0.0.0.0 stats.pandora.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 www.googletagservices.com
+0.0.0.0 boredpanda.com
+0.0.0.0 doubleclick.net
+0.0.0.0 kickass.to
+0.0.0.0 limewire.com
+0.0.0.0 match.com
+0.0.0.0 meetme.com
+0.0.0.0 testsfeed.com
+0.0.0.0 thepiratebay.org
+0.0.0.0 tinder.com
 
 #VPNs
 0.0.0.0 privateinternetaccess.com
