@@ -53,3 +53,24 @@
 0.0.0.0 strongvpn.com
 0.0.0.0 vikingvpn.com
 0.0.0.0 cryptostorm.is
+
+#Nox Player ads
+0.0.0.0 api.bignox.com
+0.0.0.0 tracking.trnox.com
+0.0.0.0 bi.yeshen.com
+0.0.0.0 launcher.us.yeshen.com
+0.0.0.0 pubstatus.sinaapp.com
+0.0.0.0 noxagile.duapp.com
+0.0.0.0 common.duapps.com
+0.0.0.0 pasta.esfile.duapps.com
+0.0.0.0 api.mobula.sdk.duapps.com
+0.0.0.0 hmma.baidu.com
+0.0.0.0 nrc.tapas.net
+0.0.0.0 au.umeng.com
+0.0.0.0 www.yeshen.com
+0.0.0.0 www.yeshen.com.w.kunlungr.com
+0.0.0.0 hm.e.shifen.com
+0.0.0.0 tdcv3.talkingdata.net
+0.0.0.0 alog.umeng.com
+0.0.0.0 sdk.open.inc2.igexin.com
+0.0.0.0 androiden.duapp.com
