@@ -35,6 +35,7 @@
 0.0.0.0 telemetry.malwarebytes.com
 0.0.0.0 go.oclasrv.com
 0.0.0.0 oclasrv.com
+0.0.0.0 analytics.ff.avast.com
 
 #VPNs
 0.0.0.0 privateinternetaccess.com
