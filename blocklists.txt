@@ -22,14 +22,6 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://hosts-file.net/ad_servers.txt
 
 http://winhelp2002.mvps.org/hosts.txt
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-https://mirror1.malwaredomains.com/files/justdomains
-http://sysctl.org/cameleon/hosts
-https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-https://hosts-file.net/ad_servers.txt
-http://winhelp2002.mvps.org/hosts.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
 http://adblock.gjtech.net/?format=unix-hosts
 http://www.malwaredomainlist.com/hostslist/hosts.txt
@@ -51,7 +43,6 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
 https://v.firebog.net/hosts/static/w3kbl.txt
 https://v.firebog.net/hosts/BillStearns.txt
-http://sysctl.org/cameleon/hosts
 https://raw.githubusercontent.com/CHEF-KOCH/BarbBlock-filter-list/master/HOSTS.txt
 https://www.dshield.org/feeds/suspiciousdomains_Low.txt
 https://www.joewein.net/dl/bl/dom-bl-base.txt
@@ -66,8 +57,6 @@ https://v.firebog.net/hosts/Kowabit.txt
 https://adblock.mahakala.is
 https://adaway.org/hosts.txt
 https://v.firebog.net/hosts/AdguardDNS.txt
-https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-https://hosts-file.net/ad_servers.txt
 https://v.firebog.net/hosts/Easylist.txt
 https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/CK's-Spotify-HOSTS-FilterList.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
@@ -85,7 +74,6 @@ https://raw.githubusercontent.com/CHEF-KOCH/Canvas-fingerprinting-pages/master/C
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-https://mirror1.malwaredomains.com/files/justdomains
 https://hosts-file.net/exp.txt
 https://hosts-file.net/emd.txt
 https://hosts-file.net/psh.txt
@@ -98,7 +86,6 @@ https://raw.githubusercontent.com/quidsup/notrack/master/malicious-sites.txt
 https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
 https://v.firebog.net/hosts/Shalla-mal.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
-https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 https://v.firebog.net/hosts/Airelle-hrsk.txt
 https://github.com/chadmayfield/pihole-blocklists/raw/master/lists/pi_blocklist_porn_all.list
 https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
