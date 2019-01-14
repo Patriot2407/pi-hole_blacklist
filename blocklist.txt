@@ -36,6 +36,7 @@
 0.0.0.0 go.oclasrv.com
 0.0.0.0 oclasrv.com
 0.0.0.0 analytics.ff.avast.com
+0.0.0.0 l.facebook.com
 
 #VPNs
 0.0.0.0 privateinternetaccess.com
