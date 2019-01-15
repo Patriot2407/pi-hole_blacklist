@@ -12,7 +12,6 @@ http://www.malwaredomainlist.com/hostslist/hosts.txt
 http://someonewhocares.org/hosts/hosts
 https://github.com/Dawsey21/Lists/blob/master/main-blacklist.txt
 https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
-https://raw.github.com/notracking/hosts-blocklists/blob/master/domains.txt
 https://github.com/reek/anti-adblock-killer/blob/master/anti-adblock-killer-filters.txt
 http://v.firebog.net/hosts/Easylist.txt
 http://v.firebog.net/hosts/Easyprivacy.txt
