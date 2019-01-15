@@ -17,7 +17,7 @@ https://github.com/reek/anti-adblock-killer/blob/master/anti-adblock-killer-filt
 http://v.firebog.net/hosts/Easylist.txt
 http://v.firebog.net/hosts/Easyprivacy.txt
 https://github.com/MetaMask/eth-phishing-detect/blob/master/src/hosts.txt
-https://github.com/ZeroDot1/CoinBlockerLists/blob/master/hosts_browser
+https://gitlab.com/ZeroDot1/CoinBlockerLists/blob/master/hosts_browser
 https://github.com/Dawsey21/Lists/blob/master/main-blacklist.txt
 https://github.com/mitchellkrogza/Badd-Boyz-Hosts/blob/master/hosts
 https://github.com/azet12/KADhosts/blob/master/KADhosts.txt
@@ -42,7 +42,11 @@ https://adblock.mahakala.is
 https://adaway.org/hosts.txt
 https://v.firebog.net/hosts/AdguardDNS.txt
 https://v.firebog.net/hosts/Easylist.txt
-https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/HOSTS/CK's-Spotify-HOSTS-FilterList.txt
+#https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/HOSTS/CK's-Spotify-HOSTS-FilterList.txt
+https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/HOSTS/Ads-tracker.txt
+https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/HOSTS/Malware.txt
+https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/HOSTS/Popads.txt
+https://github.com/CHEF-KOCH/CKs-FilterList/blob/master/HOSTS/coinminer.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
 https://github.com/StevenBlack/hosts/blob/master/data/UncheckyAds/hosts
 https://v.firebog.net/hosts/Easyprivacy.txt
@@ -75,6 +79,6 @@ https://github.com/chadmayfield/pihole-blocklists/raw/blob/master/lists/pi_block
 https://github.com/chadmayfield/pihole-blocklists/blob/master/lists/pi_blocklist_porn_top1m.list
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts
 https://github.com/HenningVanRaumle/pihole-ytadblock/blob/master/ytadblock.txt
-https://github.com/anudeepND/youtubeadsblacklist/blob/blob/master/domainlist.txt
+https://github.com/anudeepND/youtubeadsblacklist/blob/master/domainlist.txt
 https://github.com/czebiniak/pi-hole_blacklist/blob/master/blocklist.txt
 https://github.com/mmotti/pihole-regex/blob/master/regex.list
