@@ -1,5 +1,5 @@
 #REGEX
-https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
+https://github.com/mmotti/pihole-regex/blob/master/regex.list
 
 # The below list amalgamates several lists we used previously.
 # See `https://github.com/StevenBlack/hosts` for details
