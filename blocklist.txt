@@ -76,3 +76,6 @@
 0.0.0.0 alog.umeng.com
 0.0.0.0 sdk.open.inc2.igexin.com
 0.0.0.0 androiden.duapp.com
+
+#Hulu Ads
+0.0.0.0 ads-e-darwin.hulustream.com
