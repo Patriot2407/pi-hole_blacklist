@@ -79,3 +79,6 @@
 
 #Hulu Ads
 0.0.0.0 ads-e-darwin.hulustream.com
+0.0.0.0 http-v-darwin.hulustream.com
+
+#Youtube ads
