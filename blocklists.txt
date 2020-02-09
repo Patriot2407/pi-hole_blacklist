@@ -81,3 +81,4 @@ https://github.com/HenningVanRaumle/pihole-ytadblock/blob/master/ytadblock.txt
 https://github.com/anudeepND/youtubeadsblacklist/blob/master/domainlist.txt
 https://github.com/czebiniak/pi-hole_blacklist/blob/master/blocklist.txt
 https://github.com/mmotti/pihole-regex/blob/master/regex.list
+https://github.com/kboghdady/youTube_ads_4_pi-hole/blob/master/youtubelist.txt
